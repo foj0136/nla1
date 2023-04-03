@@ -1,5 +1,5 @@
 # Numerická lineární algebra 1
-Repozitář s materiály a informacemi k předmětu Numerická lineární algebra 1.
+Repozitář s mnou průběžně vyplňovanými materiály předmětu Numerická lineární algebra 1.
 
 ## Čas a místo výuky
 - Přednáška: čt 16.00 - 17.30
